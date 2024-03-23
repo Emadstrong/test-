@@ -30,8 +30,8 @@ print "Telegram : t.me/Crackerspace"
 print "Join Cracker Space TG Group To Get Premium Apk(s) Free"
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems"
 print
-ip = raw_input("IP Target : ")
-port = input("Port       : ")
+ip = raw_input("216.24.57.252")
+port = input("10000")
 os.system("clear")
 print("\033[93m")
 os.system("figlet DdoS Attack")
